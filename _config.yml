@@ -1,4 +1,19 @@
+title: "Your Blog Title"  # Add your site title here
+description: "A description of your site"  # Optional, helps with SEO
+
+# GitHub Pages settings
+baseurl: "/heydeep-blog"  # Ensure this matches the repository name
+url: "https://proffdeep.github.io"
+
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  # Optional plugins for performance and GitHub Pages compatibility
+  - jekyll-include-cache
+
+# Markdown and other settings (optional, based on your preference)
+markdown: kramdown
+highlighter: rouge
+theme: minima  # Adjust theme if you're using a different one

@@ -10,5 +10,3 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  # Optional plugins for performance and GitHub Pages compatibility
-  - jekyll-include-cache

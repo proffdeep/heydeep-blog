@@ -12,8 +12,3 @@ plugins:
   - jekyll-seo-tag
   # Optional plugins for performance and GitHub Pages compatibility
   - jekyll-include-cache
-
-# Markdown and other settings (optional, based on your preference)
-markdown: kramdown
-highlighter: rouge
-theme: minima  # Adjust theme if you're using a different one

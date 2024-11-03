@@ -2,7 +2,7 @@ title: "Your Blog Title"  # Add your site title here
 description: "A description of your site"  # Optional, helps with SEO
 
 # GitHub Pages settings
-baseurl: "/heydeep-blog"  # Ensure this matches the repository name
+baseurl: ""  # Ensure this matches the repository name
 url: "https://proffdeep.github.io"
 
 # Plugins
